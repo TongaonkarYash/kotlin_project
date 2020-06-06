@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homemade Recipes</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_theme_title">Choose theme</string>
+    <string name="a11y_show_navigation">Show navigation menu</string>
+    <string name="settings_theme_system">System default</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_battery">Set by Battery Saver</string>
+    <string name="home_title">Home</string>
+</resources>

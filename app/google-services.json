@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594263649587",
+    "firebase_url": "https://homemaderecipes-73ed9.firebaseio.com",
+    "project_id": "homemaderecipes-73ed9",
+    "storage_bucket": "homemaderecipes-73ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594263649587:android:922a2688b5d381d40ae246",
+        "android_client_info": {
+          "package_name": "com.yash.tongaonkar.homemaderecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594263649587-vkplvhrm0o5v1bf19lj2eaujetr1br53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM__EKhi0JUaverTlNWofumODfsFcnUFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594263649587-vkplvhrm0o5v1bf19lj2eaujetr1br53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
